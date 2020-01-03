@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Food_Cubes</string>
+    <string name="day">Day</string>
+    <string name="Day">day</string>
+    <string name="breakfast">breakfast</string>
+    <string name="lunch">lunch</string>
+    <string name="Lunch">Lunch</string>
+    <string name="dinner">dinner</string>
+    <string name="Dinner">Dinner</string>
+    <string name="add">add</string>
+</resources>
